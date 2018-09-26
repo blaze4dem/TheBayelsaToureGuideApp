@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#b23c17</color>
+    <color name="colorPrimaryDark">#ff5722</color>
+    <color name="colorAccent">#ffef62</color>
+
+    <color name="pink_white">#fff8ff</color>
+
+    <color name="cool" >#008394</color>
+    <color name="rest" >#618833</color>
+    <color name="hotels" >#ff9800</color>
+    <color name="emerg" >#ff5722</color>
+
+</resources>

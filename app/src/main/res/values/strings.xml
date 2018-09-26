@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">The Bayelsa Toure Guide App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cool">Cool Spots</string>
+    <string name="rest">Restaurants</string>
+    <string name="hotels">Hotels</string>
+    <string name="emergency">Emergency</string>
+
+    <!-- cool spots  -->
+
+    <string name="ox">Oxbow Lake</string>
+    <string name="ox_head">Nature at its best</string>
+    <string name="ox_desc">Enjoy nature at its best, Oxbow lake will make you wish you never leave the place</string>
+
+    <string name="os">Oasis Spa</string>
+    <string name="os_head">Relax and just chill</string>
+    <string name="os_desc">Oasis Spa will expose you to all the beautiful things you never know your body needed</string>
+
+    <string name="bw">Bolex Wash</string>
+    <string name="bw_head">Car wash and entertainment</string>
+    <string name="bw_desc">Want to wash your car? why not relax and be entertained at the same time, Bolex is got you covered</string>
+
+    <string name="ms">Market Square</string>
+    <string name="ms_head">The largest shopping mall</string>
+    <string name="ms_desc">Buy everything you ever need or don\'t need, Market square is got everything, You can get lost in this mall</string>
+
+    <string name="bbr">Brass Beach Resort</string>
+    <string name="bbr_head">The surfers paradise</string>
+    <string name="bbr_desc">Whit ever strong waves from the ocean Brass Beach resort is the best place to be for ocean lovers.</string>
+
+    <string name="cr">Chicken Republic</string>
+    <string name="cr_head">Eat till you cant eat no more</string>
+    <string name="cr_desc">The best place to eat anything your heart desires, any type of snack you want, foreign or local you will find it in chicken republic</string>
+
+    <string name="df">Djakes Foods</string>
+    <string name="df_head">Taste the difference</string>
+    <string name="df_desc">You dont know what sweet food taste like till you eat at djakes, the best food anywhere, both foreign and local foods available.</string>
+
+    <string name="cck">Chop Chop Kitcken</string>
+    <string name="cck_head">Eat till you drop</string>
+    <string name="cck_desc">For the best value for money chop chop kitchen is got you covered, eating the best food does not have to mean you must spend all you money, spend less for more at chop chop.</string>
+
+    <string name="cd">Coffee Drive</string>
+    <string name="cd_head">Stay alert, stay fresh</string>
+    <string name="cd_desc">No time wasting coffee drive is got all your coffee needs and serves the best coffee you will ever find in Bayelsa.</string>
+
+    <string name="ss">Shawama Spot</string>
+    <string name="ss_head">Snacks for the road</string>
+    <string name="ss_desc">Feeling like getting a snack? Shawama spot is the place to be, believe me a snack from shawama spot will change your life</string>
+
+    <string name="ah">Aridolf Hotel</string>
+    <string name="af_head">5 star at its best</string>
+    <string name="af_desc">At Aridolf Hotel your comfort is guaranteed, a 5 stare hotel at the heart of bayelsa, whith the best of everything.</string>
+
+    <string name="as">Ayalla Suites</string>
+    <string name="as_head">2 star Hotel</string>
+    <string name="as_desc">Never lack confort when Ayalla can provide all the confort you need, with the best beack fron view in bayelsa ayalla suites has the most breath taking sites ever.</string>
+
+    <string name="bs_">Brass Suites</string>
+    <string name="bs_head">1 stare Hotel</string>
+    <string name="bs_desc">The largest hotel in all of bayelsa in terms of size and space, you will never feel crowded or lack packing space Brass suites is situated in the largest part of the city and covers too much space.</string>
+
+    <string name="ayh">Ayoks Hotel</string>
+    <string name="ayh_head">Think Style, and luxury think Ayoks</string>
+    <string name="ayh_desk">Are you an art person or you just like style and beautiful things, Ayoks hotel is the most stylish hotel in bayelsa and its an art work on its own.</string>
+
+    <string name="sm">Shaga Motel</string>
+    <string name="sm_head">Comfort and Security</string>
+    <string name="sm_desk">If you need the most secure and cryptic hotel ever... Shaga Motel is got you covered.. It is located inside a military base and offers the best security and comfort ever.</string>
+
+    <string name="police">A DIVISION POLICE STATION</string>
+    <string name="police_num">911</string>
+    <string name="police_desc">Police head quarters in Bayelsa, Stay safe and call the cops</string>
+
+    <string name="hospital">General Hospital</string>
+    <string name="hospital_num">899</string>
+    <string name="hospital_desc">The bayelsa state general hospital.</string>
+
+    <string name="fire">Fire Service</string>
+    <string name="fire_num">998</string>
+    <string name="fire_desc">The bay elsa state fire dept will put out any fire even hell fire.</string>
+    <string name="sub_head">The pride of the nation</string>
+    <string name="welcome">WELCOME TO BAYELSA</string>
+    <string name="welcome_text">Just a few places we thing you should visit or at least know about just incase you are feeling avdentures and would like to experience Bayelsa from the inside out. LOL</string>
+    <string name="place_image">place image</string>
+    <string name="back">Back to index</string>
+</resources>
